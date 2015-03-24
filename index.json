@@ -1,12 +1,12 @@
 {
     "Default": {
         "name": "ciims-themes/default",
-        "version": "3.0.11",
+        "version": "3.0.17",
         "repository": "https://github.com/charlesportwoodii/ciims-themes-default"
     },
     "Spectre": {
         "name": "ciims-themes/spectre",
-        "version": "2.0.2",
+        "version": "2.0.7",
         "repository": "https://github.com/charlesportwoodii/ciims-themes-spectre"
     }
 }
